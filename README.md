@@ -32,7 +32,7 @@
 - Open to **any junior/entry-level roles** in AI/ML engineering, data, or software engineering — happy to learn on the job! 
 
 ### 📫 Let's Connect
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/priscadella)
+- LinkedIn: [linkedin.com/in/priscadella](https://linkedin.com/in/priscadella)
 - Email: priscdella101@gmail.com
 - Open to chats about projects, advice, or opportunities
 
